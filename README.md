@@ -1,2 +1,2 @@
-# deploy-heroku
-Deploy an Image Classification Model on Heroku
+This project will classify the images.
+i.e. dog will be classified as there perticular species.
