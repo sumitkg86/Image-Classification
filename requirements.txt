@@ -15,9 +15,6 @@ Keras==2.4.3
 keras-nightly==2.5.0.dev2021032900
 Keras-Preprocessing==1.1.2
 lazy-object-proxy==1.6.0
-Markdown==3.3.4
-MarkupSafe==1.1.1
-mccabe==0.6.1
 numpy==1.19.5
 oauthlib==3.1.0
 opt-einsum==3.3.0
@@ -29,10 +26,6 @@ rsa==4.7.2
 scikit-learn==0.24.2
 scipy==1.6.3
 six==1.15.0
-sklearn==0.0
-tensorboard==2.5.0
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.0
 tensorflow==2.5.0rc3
 tensorflow-estimator==2.5.0rc0
 threadpoolctl==2.1.0
@@ -42,5 +35,3 @@ urllib3==1.26.4
 Werkzeug==1.0.1
 wincertstore==0.2
 wrapt==1.12.1
-zope.event==4.5.0
-zope.interface==5.4.0
